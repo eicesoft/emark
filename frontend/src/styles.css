@@ -149,6 +149,7 @@ textarea.block {
   color: inherit;
   white-space: pre-wrap;
   word-break: break-word;
+  min-height: calc(1.6em + 8px);
 }
 
 
@@ -605,6 +606,7 @@ textarea.block {
   line-height: 1.6;
   cursor: text;
   word-break: break-word;
+  min-height: calc(1.6em + 8px);
 }
 
 .rendered > :first-child {
